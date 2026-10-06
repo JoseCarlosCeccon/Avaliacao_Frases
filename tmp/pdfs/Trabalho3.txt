@@ -1,0 +1,31 @@
+Disciplina: Tópicos Especiais em Banco de Dados
+Professor: Leonardo Fiório Soares
+Valor: 5 pontos
+Em dupla
+
+                                   Trabalho 3
+
+Com o conhecimento adquirido em aula de uso do banco de dados vetorial
+ChromaDB em Python, implemente um código python para ler o arquivo trabalho3-
+input.txt e usar os modelos de redes neurais all-MiniLM-L6-v2 e o modelo all-mpnet-
+base-v2 para responder as 10 perguntas a seguir. O arquivo trabalho3-input.txt tem
+10000 frases únicas relacionadas a tecnologia. O seu código deve associar 5 frases
+do arquivo de input a cada uma das perguntas abaixo.
+
+1. Como a inteligência artificial está mudando o mercado de trabalho?
+2. Quais são os riscos de segurança relacionados a novas tecnologias?
+3. De que forma a computação em nuvem beneficia as empresas?
+4. Como o big data ajuda na tomada de decisões?
+5. Qual o impacto da automação nos processos industriais?
+6. Como a tecnologia está sendo usada na área da saúde?
+7. Quais tecnologias estão relacionadas à sustentabilidade?
+8. Como o trabalho remoto foi impactado pela tecnologia?
+9. De que forma a cibersegurança protege dados das empresas?
+10. Como a inovação tecnológica influencia startups e novos negócios?
+
+A saída do seu código deve ser escrita em um arquivo para cada modelo com o
+nome trabalho3-output-<modelo>.txt. Analise os resultados. Teve um “vencedor”?
+Investigue os motivos para a diferença que você obteve. Escreva um relatório
+contendo as suas principais conclusões.
+Ao final, envie no AVA o código Python, os arquivos de saída e o relatório.
+

@@ -1,0 +1,85 @@
+TRABALHO 3 - BUSCA SEMÂNTICA COM CHROMADB
+Modelo: all-MiniLM-L6-v2
+Frases indexadas: 1000
+Resultados por pergunta: 5
+Métrica: distância cosseno (menor é melhor)
+
+PERGUNTA 1
+1. Como a inteligência artificial está mudando o mercado de trabalho?
+  1) Distância: 0.356556 | Acessar documentos de qualquer lugar do mundo, sem depender de um único computador, mudou a rotina de trabalho.
+  2) Distância: 0.369270 | A flexibilidade de horário conquistada fora do escritório mudou a rotina de milhões de trabalhadores.
+  3) Distância: 0.380591 | Segundo a fabricante, o óculos de realidade virtual recebeu certificação de qualidade.
+  4) Distância: 0.388766 | Segundo a fabricante, o óculos de realidade virtual foi retirado das prateleiras por defeito.
+  5) Distância: 0.397420 | Segundo a fabricante, o drone de entregas foi alvo de reclamações de usuários.
+
+PERGUNTA 2
+2. Quais são os riscos de segurança relacionados a novas tecnologias?
+  1) Distância: 0.321487 | Segundo a fabricante, o relógio conectado esgotou nas lojas físicas.
+  2) Distância: 0.345089 | Restringir o acesso de funcionários apenas às informações necessárias reduz o risco de vazamento interno.
+  3) Distância: 0.351615 | Segundo a fabricante, o relógio conectado foi lançado com preço abaixo do esperado.
+  4) Distância: 0.353386 | Segundo a fabricante, o relógio conectado recebeu boas avaliações em sites especializados.
+  5) Distância: 0.359788 | De acordo com analistas do setor, o teclado mecânico esgotou nas lojas físicas.
+
+PERGUNTA 3
+3. De que forma a computação em nuvem beneficia as empresas?
+  1) Distância: 0.251822 | Aceleradoras de negócios ajudam fundadores iniciantes a transformar ideias em empresas viáveis.
+  2) Distância: 0.318901 | Funcionários que trabalham de qualquer lugar reduziram os custos das empresas com escritórios físicos.
+  3) Distância: 0.359985 | Ideias que começam em garagens às vezes se transformam em empresas que mudam indústrias inteiras.
+  4) Distância: 0.430753 | Programas maliciosos conseguem se infiltrar em redes corporativas sem serem percebidos.
+  5) Distância: 0.432569 | Pequenas empresas de tecnologia conseguem crescer rápido ao resolver problemas que grandes companhias ignoram.
+
+PERGUNTA 4
+4. Como o big data ajuda na tomada de decisões?
+  1) Distância: 0.433348 | O navegador de internet, um dos destaques do ano, teve o preço reduzido em uma promoção.
+  2) Distância: 0.434968 | Interpretar volumes gigantescos de informação reduz a incerteza nas escolhas estratégicas de uma organização.
+  3) Distância: 0.435561 | Em uma reportagem recente, foi divulgado que o navegador de internet teve o preço reduzido em uma promoção.
+  4) Distância: 0.438872 | O navegador de internet, um dos destaques do ano, foi retirado das prateleiras por defeito.
+  5) Distância: 0.449143 | Em uma reportagem recente, foi divulgado que o modem de internet esgotou nas lojas físicas.
+
+PERGUNTA 5
+5. Qual o impacto da automação nos processos industriais?
+  1) Distância: 0.413875 | De acordo com analistas do setor, o chip processador ganhou uma versão com mais funções.
+  2) Distância: 0.416204 | Ideias que começam em garagens às vezes se transformam em empresas que mudam indústrias inteiras.
+  3) Distância: 0.422933 | De acordo com analistas do setor, o purificador de ar teve boa aceitação entre os primeiros compradores.
+  4) Distância: 0.439759 | De acordo com analistas do setor, o carregador sem fio teve boa aceitação entre os primeiros compradores.
+  5) Distância: 0.439884 | O chip processador, um dos destaques do ano, vendeu mais do que o previsto.
+
+PERGUNTA 6
+6. Como a tecnologia está sendo usada na área da saúde?
+  1) Distância: 0.429324 | O teclado mecânico vendeu mais do que o previsto.
+  2) Distância: 0.433239 | O provedor local teve o preço reduzido em uma promoção.
+  3) Distância: 0.434048 | Segundo a fabricante, o relógio conectado foi lançado com preço abaixo do esperado.
+  4) Distância: 0.439243 | O smartphone, um dos destaques do ano, teve o preço reduzido em uma promoção.
+  5) Distância: 0.441868 | Segundo a fabricante, o teclado mecânico atrasou por falta de peças.
+
+PERGUNTA 7
+7. Quais tecnologias estão relacionadas à sustentabilidade?
+  1) Distância: 0.373200 | O relógio conectado recebeu certificação de qualidade.
+  2) Distância: 0.417349 | Segundo a fabricante, o óculos de realidade virtual recebeu certificação de qualidade.
+  3) Distância: 0.433200 | Pequenas empresas de tecnologia conseguem crescer rápido ao resolver problemas que grandes companhias ignoram.
+  4) Distância: 0.437034 | O carregador sem fio, um dos destaques do ano, recebeu certificação de qualidade.
+  5) Distância: 0.437753 | Analisar o comportamento de milhões de usuários simultaneamente revela tendências de consumo em tempo real.
+
+PERGUNTA 8
+8. Como o trabalho remoto foi impactado pela tecnologia?
+  1) Distância: 0.366624 | Segundo a fabricante, o relógio conectado foi lançado com preço abaixo do esperado.
+  2) Distância: 0.389407 | Pequenas empresas de tecnologia conseguem crescer rápido ao resolver problemas que grandes companhias ignoram.
+  3) Distância: 0.392460 | O teclado mecânico, um dos destaques do ano, foi comparado a modelos concorrentes.
+  4) Distância: 0.392461 | O carregador sem fio foi alvo de reclamações de usuários.
+  5) Distância: 0.400380 | A flexibilidade de horário conquistada fora do escritório mudou a rotina de milhões de trabalhadores.
+
+PERGUNTA 9
+9. De que forma a cibersegurança protege dados das empresas?
+  1) Distância: 0.280399 | Aceleradoras de negócios ajudam fundadores iniciantes a transformar ideias em empresas viáveis.
+  2) Distância: 0.344767 | Funcionários que trabalham de qualquer lugar reduziram os custos das empresas com escritórios físicos.
+  3) Distância: 0.409277 | Reuniões por vídeo substituíram encontros presenciais em boa parte das empresas.
+  4) Distância: 0.419500 | Ideias que começam em garagens às vezes se transformam em empresas que mudam indústrias inteiras.
+  5) Distância: 0.457017 | Trabalhadores precisam aprender novas habilidades porque algoritmos assumem funções que antes exigiam pessoas.
+
+PERGUNTA 10
+10. Como a inovação tecnológica influencia startups e novos negócios?
+  1) Distância: 0.407706 | Aceleradoras de negócios ajudam fundadores iniciantes a transformar ideias em empresas viáveis.
+  2) Distância: 0.420961 | Funcionários que trabalham de qualquer lugar reduziram os custos das empresas com escritórios físicos.
+  3) Distância: 0.424991 | Programas maliciosos conseguem se infiltrar em redes corporativas sem serem percebidos.
+  4) Distância: 0.427304 | De acordo com analistas do setor, o carregador portátil recebeu certificação de qualidade.
+  5) Distância: 0.427726 | Profissões inteiras estão sendo reinventadas porque programas conseguem tomar decisões sozinhos.

@@ -1,0 +1,85 @@
+TRABALHO 3 - BUSCA SEMÂNTICA COM CHROMADB
+Modelo: paraphrase-multilingual-MiniLM-L12-v2
+Frases indexadas: 1000
+Resultados por pergunta: 5
+Métrica: distância cosseno (menor é melhor)
+
+PERGUNTA 1
+1. Como a inteligência artificial está mudando o mercado de trabalho?
+  1) Distância: 0.392435 | Trabalhadores precisam aprender novas habilidades porque algoritmos assumem funções que antes exigiam pessoas.
+  2) Distância: 0.509085 | A capacidade de máquinas raciocinarem sobre problemas complexos está redefinindo cargos em diversas áreas.
+  3) Distância: 0.513580 | Vagas de emprego que envolviam apenas seguir instruções fixas estão sendo ocupadas por softwares autônomos.
+  4) Distância: 0.529432 | A substituição de tarefas humanas por sistemas autônomos preocupa trabalhadores de setores tradicionais.
+  5) Distância: 0.561368 | Empreendedores criam soluções digitais para necessidades que o mercado tradicional não atendia.
+
+PERGUNTA 2
+2. Quais são os riscos de segurança relacionados a novas tecnologias?
+  1) Distância: 0.527508 | De acordo com analistas do setor, o fechadura eletrônica foi alvo de reclamações de usuários.
+  2) Distância: 0.548707 | De acordo com analistas do setor, o sensor de presença passou por testes de resistência.
+  3) Distância: 0.551170 | A exploração de vulnerabilidades em programas antigos ainda causa prejuízo a instituições financeiras.
+  4) Distância: 0.551275 | Segundo a fabricante, o adaptador de rede foi alvo de reclamações de usuários.
+  5) Distância: 0.553989 | De acordo com analistas do setor, o adaptador de rede passou por testes de resistência.
+
+PERGUNTA 3
+3. De que forma a computação em nuvem beneficia as empresas?
+  1) Distância: 0.494430 | De acordo com analistas do setor, o drone de entregas foi comparado a modelos concorrentes.
+  2) Distância: 0.508601 | O drone de entregas esgotou nas lojas físicas.
+  3) Distância: 0.508688 | Segundo a fabricante, o drone de entregas passou a ser produzido em maior escala.
+  4) Distância: 0.526168 | Alugar capacidade de processamento pela internet dispensa a compra de servidores próprios.
+  5) Distância: 0.531698 | O drone de entregas ganhou uma versão com mais funções.
+
+PERGUNTA 4
+4. Como o big data ajuda na tomada de decisões?
+  1) Distância: 0.455281 | Interpretar volumes gigantescos de informação reduz a incerteza nas escolhas estratégicas de uma organização.
+  2) Distância: 0.549053 | Empresas que sabem extrair conhecimento de grandes quantidades de registros ganham vantagem sobre concorrentes.
+  3) Distância: 0.594542 | Identificar padrões repetidos em bases enormes de registros ajuda a antecipar problemas antes que aconteçam.
+  4) Distância: 0.604437 | Equipes espalhadas por diferentes cidades conseguem colaborar em tempo real usando ferramentas digitais.
+  5) Distância: 0.608194 | A flexibilidade de contratar mais espaço de armazenamento sob demanda mudou o planejamento de recursos.
+
+PERGUNTA 5
+5. Qual o impacto da automação nos processos industriais?
+  1) Distância: 0.356253 | Equipamentos autônomos aceleraram a produção em série dentro das fábricas.
+  2) Distância: 0.415131 | A precisão de dispositivos automatizados reduziu o desperdício de matéria-prima nas fábricas.
+  3) Distância: 0.426592 | Sistemas capazes de aprender sozinhos com exemplos estão substituindo tarefas repetitivas em fábricas.
+  4) Distância: 0.467041 | Máquinas controladas por software executam tarefas manuais com precisão superior à humana.
+  5) Distância: 0.494979 | A capacidade de máquinas raciocinarem sobre problemas complexos está redefinindo cargos em diversas áreas.
+
+PERGUNTA 6
+6. Como a tecnologia está sendo usada na área da saúde?
+  1) Distância: 0.481116 | Consultas médicas à distância, feitas por vídeo, se popularizaram nos últimos anos.
+  2) Distância: 0.551726 | Prontuários eletrônicos substituíram fichas de papel em muitos hospitais.
+  3) Distância: 0.583666 | Empreendedores criam soluções digitais para necessidades que o mercado tradicional não atendia.
+  4) Distância: 0.595087 | Diagnósticos por imagem contam com apoio de programas que identificam doenças precocemente.
+  5) Distância: 0.596478 | Equipes espalhadas por diferentes cidades conseguem colaborar em tempo real usando ferramentas digitais.
+
+PERGUNTA 7
+7. Quais tecnologias estão relacionadas à sustentabilidade?
+  1) Distância: 0.456261 | Cidades vêm adotando sensores para reduzir o desperdício de recursos naturais.
+  2) Distância: 0.539766 | A reciclagem de componentes eletrônicos evita que metais pesados contaminem o solo.
+  3) Distância: 0.560684 | A precisão de dispositivos automatizados reduziu o desperdício de matéria-prima nas fábricas.
+  4) Distância: 0.581376 | Sensores instalados em plantações ajudam a economizar água na agricultura.
+  5) Distância: 0.607267 | Empreendedores criam soluções digitais para necessidades que o mercado tradicional não atendia.
+
+PERGUNTA 8
+8. Como o trabalho remoto foi impactado pela tecnologia?
+  1) Distância: 0.529717 | Equipes espalhadas por diferentes cidades conseguem colaborar em tempo real usando ferramentas digitais.
+  2) Distância: 0.529751 | Empreendedores criam soluções digitais para necessidades que o mercado tradicional não atendia.
+  3) Distância: 0.531612 | A substituição de tarefas humanas por sistemas autônomos preocupa trabalhadores de setores tradicionais.
+  4) Distância: 0.536907 | Acessar documentos de qualquer lugar do mundo, sem depender de um único computador, mudou a rotina de trabalho.
+  5) Distância: 0.542423 | Linhas de produção modernas dependem cada vez menos da força de trabalho humana em tarefas padronizadas.
+
+PERGUNTA 9
+9. De que forma a cibersegurança protege dados das empresas?
+  1) Distância: 0.340893 | Cópias de segurança regulares protegem organizações contra a perda definitiva de arquivos importantes.
+  2) Distância: 0.382871 | Manter cópias de segurança fora do escritório físico virou prática recomendada contra perda de dados.
+  3) Distância: 0.385762 | Programas maliciosos conseguem se infiltrar em redes corporativas sem serem percebidos.
+  4) Distância: 0.444289 | Criminosos digitais exploram brechas em sistemas para roubar informações sigilosas de usuários.
+  5) Distância: 0.466062 | Golpistas se passam por instituições confiáveis para enganar pessoas na internet.
+
+PERGUNTA 10
+10. Como a inovação tecnológica influencia startups e novos negócios?
+  1) Distância: 0.354329 | Aceleradoras de negócios ajudam fundadores iniciantes a transformar ideias em empresas viáveis.
+  2) Distância: 0.398632 | Ideias que começam em garagens às vezes se transformam em empresas que mudam indústrias inteiras.
+  3) Distância: 0.425621 | Fundadores iniciantes buscam capital de risco para transformar protótipos em produtos vendáveis.
+  4) Distância: 0.441156 | Pequenas empresas de tecnologia conseguem crescer rápido ao resolver problemas que grandes companhias ignoram.
+  5) Distância: 0.491088 | Negócios recém-criados costumam testar ideias em pequena escala antes de crescer rapidamente.

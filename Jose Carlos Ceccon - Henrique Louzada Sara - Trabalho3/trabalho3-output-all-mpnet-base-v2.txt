@@ -1,0 +1,85 @@
+TRABALHO 3 - BUSCA SEMÂNTICA COM CHROMADB
+Modelo: all-mpnet-base-v2
+Frases indexadas: 1000
+Resultados por pergunta: 5
+Métrica: distância cosseno (menor é melhor)
+
+PERGUNTA 1
+1. Como a inteligência artificial está mudando o mercado de trabalho?
+  1) Distância: 0.355305 | Acessar documentos de qualquer lugar do mundo, sem depender de um único computador, mudou a rotina de trabalho.
+  2) Distância: 0.386027 | Empreendedores criam soluções digitais para necessidades que o mercado tradicional não atendia.
+  3) Distância: 0.395463 | O carregador sem fio, um dos destaques do ano, recebeu uma atualização de software.
+  4) Distância: 0.402714 | O termostato programável atrasou por falta de peças.
+  5) Distância: 0.405476 | O chip processador passou a funcionar junto com outros aparelhos.
+
+PERGUNTA 2
+2. Quais são os riscos de segurança relacionados a novas tecnologias?
+  1) Distância: 0.348684 | De acordo com analistas do setor, o relógio conectado foi alvo de reclamações de usuários.
+  2) Distância: 0.354964 | Em uma reportagem recente, foi divulgado que o relógio conectado ganhou uma versão com mais funções.
+  3) Distância: 0.361341 | Segundo a fabricante, o relógio conectado foi retirado das prateleiras por defeito.
+  4) Distância: 0.365192 | Em uma reportagem recente, foi divulgado que o teclado mecânico foi alvo de reclamações de usuários.
+  5) Distância: 0.365333 | O teclado mecânico foi alvo de reclamações de usuários.
+
+PERGUNTA 3
+3. De que forma a computação em nuvem beneficia as empresas?
+  1) Distância: 0.290651 | O termostato programável, um dos destaques do ano, passou a ser produzido em maior escala.
+  2) Distância: 0.305422 | Guardar arquivos em servidores remotos, em vez do próprio computador, tornou-se prática comum.
+  3) Distância: 0.308844 | O termostato programável passou a ser produzido em maior escala.
+  4) Distância: 0.315596 | O carregador sem fio, um dos destaques do ano, recebeu uma atualização de software.
+  5) Distância: 0.337465 | Empreendedores criam soluções digitais para necessidades que o mercado tradicional não atendia.
+
+PERGUNTA 4
+4. Como o big data ajuda na tomada de decisões?
+  1) Distância: 0.373245 | Em uma reportagem recente, foi divulgado que o navegador de internet foi retirado das prateleiras por defeito.
+  2) Distância: 0.375009 | O navegador de internet foi retirado das prateleiras por defeito.
+  3) Distância: 0.380010 | O navegador de internet, um dos destaques do ano, foi retirado das prateleiras por defeito.
+  4) Distância: 0.400017 | De acordo com analistas do setor, o navegador de internet foi alvo de reclamações de usuários.
+  5) Distância: 0.411727 | Em uma reportagem recente, foi divulgado que o navegador de internet passou a funcionar junto com outros aparelhos.
+
+PERGUNTA 5
+5. Qual o impacto da automação nos processos industriais?
+  1) Distância: 0.325652 | Ideias que começam em garagens às vezes se transformam em empresas que mudam indústrias inteiras.
+  2) Distância: 0.359439 | De acordo com analistas do setor, o serviço de mensagens instantâneas passou a ser produzido em maior escala.
+  3) Distância: 0.362523 | Segundo a fabricante, o caixa de som portátil surpreendeu pela autonomia de bateria.
+  4) Distância: 0.368047 | De acordo com analistas do setor, o carregador sem fio passou a ser produzido em maior escala.
+  5) Distância: 0.372645 | De acordo com analistas do setor, o chip processador atrasou por falta de peças.
+
+PERGUNTA 6
+6. Como a tecnologia está sendo usada na área da saúde?
+  1) Distância: 0.323107 | De acordo com analistas do setor, o teclado mecânico foi lançado com preço abaixo do esperado.
+  2) Distância: 0.344239 | De acordo com analistas do setor, o teclado mecânico vendeu mais do que o previsto.
+  3) Distância: 0.346358 | Em uma reportagem recente, foi divulgado que o teclado mecânico passou a funcionar junto com outros aparelhos.
+  4) Distância: 0.346862 | O teclado mecânico, um dos destaques do ano, apresentou falhas logo após o lançamento.
+  5) Distância: 0.347251 | Em uma reportagem recente, foi divulgado que o teclado mecânico foi lançado com preço abaixo do esperado.
+
+PERGUNTA 7
+7. Quais tecnologias estão relacionadas à sustentabilidade?
+  1) Distância: 0.366432 | Trabalhadores precisam aprender novas habilidades porque algoritmos assumem funções que antes exigiam pessoas.
+  2) Distância: 0.389050 | Painéis que captam energia do sol têm ficado mais baratos e acessíveis para residências.
+  3) Distância: 0.403737 | Turbinas que aproveitam o vento para gerar eletricidade se espalharam por regiões costeiras.
+  4) Distância: 0.404631 | Empreendedores criam soluções digitais para necessidades que o mercado tradicional não atendia.
+  5) Distância: 0.409709 | Em uma reportagem recente, foi divulgado que o teclado mecânico passou a funcionar junto com outros aparelhos.
+
+PERGUNTA 8
+8. Como o trabalho remoto foi impactado pela tecnologia?
+  1) Distância: 0.308269 | O teclado mecânico foi alvo de reclamações de usuários.
+  2) Distância: 0.311201 | De acordo com analistas do setor, o relógio conectado foi lançado com preço abaixo do esperado.
+  3) Distância: 0.313865 | De acordo com analistas do setor, o relógio conectado foi apresentado em um evento do setor.
+  4) Distância: 0.319090 | De acordo com analistas do setor, o fone com cancelamento de ruído foi alvo de reclamações de usuários.
+  5) Distância: 0.319129 | O relógio conectado, um dos destaques do ano, foi apresentado em um evento do setor.
+
+PERGUNTA 9
+9. De que forma a cibersegurança protege dados das empresas?
+  1) Distância: 0.329911 | O carregador portátil teve boa aceitação entre os primeiros compradores.
+  2) Distância: 0.355422 | Segundo a fabricante, o aplicativo de corrida passou a ser produzido em maior escala.
+  3) Distância: 0.365961 | Segundo a fabricante, o carregador portátil passou a ser produzido em maior escala.
+  4) Distância: 0.366460 | O aplicativo de corrida teve boa aceitação entre os primeiros compradores.
+  5) Distância: 0.369179 | O aplicativo de corrida passou a ser produzido em maior escala.
+
+PERGUNTA 10
+10. Como a inovação tecnológica influencia startups e novos negócios?
+  1) Distância: 0.368774 | Ideias que começam em garagens às vezes se transformam em empresas que mudam indústrias inteiras.
+  2) Distância: 0.372909 | Escalar uma operação sem grandes investimentos iniciais é possível quando a infraestrutura fica hospedada fora do local.
+  3) Distância: 0.377049 | Profissões inteiras estão sendo reinventadas porque programas conseguem tomar decisões sozinhos.
+  4) Distância: 0.426283 | O serviço de mensagens instantâneas, um dos destaques do ano, passou a ser produzido em maior escala.
+  5) Distância: 0.427821 | De acordo com analistas do setor, o serviço de mensagens instantâneas passou a ser produzido em maior escala.
