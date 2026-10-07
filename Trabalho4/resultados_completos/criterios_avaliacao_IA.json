@@ -1,0 +1,71 @@
+{
+  "avaliador": "IA (Codex); sem revisão humana",
+  "procedimento": "Leitura dos 348 pares consulta/frase; decisão sem consultar método, score ou posição.",
+  "escala": {
+    "0": "Não responde",
+    "1": "Relacionado, mas incompleto ou genérico",
+    "2": "Resposta concreta ligada ao pedido"
+  },
+  "criterios_por_consulta": {
+    "1": "Equilíbrio/postura em golpes ou deslocamentos: parcial. Respiração relacionada explicitamente a preservar equilíbrio após chute: direta. Equilíbrio só em luta agarrada, distância, lesão e pausas: insuficiente.",
+    "2": "Controle de força para evitar ferimentos e treino de quedas seguras: direto. Postura segura, sinalização de lesão e verificação de proteções: parcial. Evitar confrontos fora do treino não responde à prevenção de lesão durante o treino.",
+    "3": "Benefício explícito da respiração para percepção corporal, manter técnica sob cansaço ou enfrentar um desafio de combate: direto. Apenas incentivo genérico a treinar respiração: parcial. Técnica/movimentação sem respiração: zero.",
+    "4": "Esquiva protegendo queixo, leitura de sinais e preservação de opções defensivas no boxe: direto. Defesa genérica, reação, coordenação, velocidade ou prática corretiva: parcial. Flexibilidade/concentração sem defesa, rotas de fuga e recuperação: zero.",
+    "5": "Posicionamento e ajuste do tempo da projeção de quadril no judô: direto. Coordenação, transições, precisão, técnica, leitura de ritmo, correções e quedas seguras: parcial. História, fuga ou capacidades genéricas pouco ligadas à execução de quedas: zero.",
+    "6": "Mobilidade suficiente para chute alto sem forçar amplitude: direto. Flexibilidade genérica, postura do chute alto e mobilidade dos chutes: parcial. Pegada, defesa de queda, distância e equilíbrio sem flexibilidade: zero.",
+    "7": "Controle emocional, autocontrole, confiança, foco, paciência e respiração: parcialmente relacionados. Nenhuma frase apresenta orientação explícita para ansiedade antes da luta. Força, distância tática, roupas, confronto externo e técnica corporal: zero.",
+    "8": "Treinar disciplina em cada sessão e progredir: direto. Disciplina genérica e rotina regular: parcial. Não agressão sem referência à disciplina/regularidade: zero.",
+    "9": "Treinar/ajustar distância e ler adversário: parcial, sem explicar concretamente como manter a distância adequada. Trabalhar outras habilidades em diferentes distâncias e manter base contra adversário pesado: zero. Nenhuma instrução específica suficiente para grau 2.",
+    "10": "Aquecimento gradual antes de treino prepara articulações: direto. Condicionamento/preparação física/consciência corporal pertinentes: parcial. Preparar competição, equipamento, estados mentais ou técnica isolada não explica preparar o corpo antes de treinar."
+  },
+  "contagens": {
+    "1": {
+      "1": 23,
+      "0": 13,
+      "2": 1
+    },
+    "2": {
+      "0": 23,
+      "1": 16,
+      "2": 3
+    },
+    "3": {
+      "1": 21,
+      "2": 5,
+      "0": 2
+    },
+    "4": {
+      "1": 19,
+      "0": 5,
+      "2": 3
+    },
+    "5": {
+      "1": 19,
+      "0": 12,
+      "2": 2
+    },
+    "6": {
+      "1": 21,
+      "0": 9,
+      "2": 1
+    },
+    "7": {
+      "1": 17,
+      "0": 18
+    },
+    "8": {
+      "1": 30,
+      "2": 1,
+      "0": 1
+    },
+    "9": {
+      "1": 32,
+      "0": 6
+    },
+    "10": {
+      "0": 21,
+      "1": 15,
+      "2": 9
+    }
+  }
+}

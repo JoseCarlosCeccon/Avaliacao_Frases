@@ -1,0 +1,101 @@
+﻿consulta_id,consulta,metodo,posicao,id,score,frase
+1,Como melhorar o equilíbrio durante os chutes?,BM25,1,7361,11.312510594730293,Reconhecer um erro durante o combate de punhos e chutes sob regras específicas abre caminho para melhorar.
+1,Como melhorar o equilíbrio durante os chutes?,BM25,2,2101,11.032115327290544,"No sumô, desenvolver equilíbrio pode melhorar a qualidade das sessões de treino durante os treinos regulares."
+1,Como melhorar o equilíbrio durante os chutes?,BM25,3,6710,10.174457666625413,A competidora equilibra o equilíbrio durante o treino e usa a disciplina como parte do progresso.
+1,Como melhorar o equilíbrio durante os chutes?,BM25,4,4144,9.024870831242408,O iniciante executa o equilíbrio durante a preparação física sem abandonar os fundamentos.
+1,Como melhorar o equilíbrio durante os chutes?,BM25,5,1813,8.763317812075334,"No karatê, desenvolver equilíbrio ajuda o praticante a compreender melhor os fundamentos durante os treinos regulares."
+1,Como melhorar o equilíbrio durante os chutes?,BM25,6,9065,8.603472452896831,"Pausas planejadas mantêm a atenção durante o treino de quedas, chutes e controles."
+1,Como melhorar o equilíbrio durante os chutes?,BM25,7,9340,8.603472452896831,Pausas planejadas mantêm a atenção durante o treino de chutes com calçados apropriados.
+1,Como melhorar o equilíbrio durante os chutes?,BM25,8,532,8.543226492812693,"Dentro do savate, trabalhar equilíbrio ajuda o praticante a compreender melhor os fundamentos durante os treinos regulares."
+1,Como melhorar o equilíbrio durante os chutes?,BM25,9,6950,8.520149628333698,O guerreiro equilibra o equilíbrio durante a preparação física para tornar os movimentos mais eficientes.
+1,Como melhorar o equilíbrio durante os chutes?,BM25,10,2094,8.490951597789458,O treinamento de wrestling mostra que desenvolver equilíbrio pode melhorar a qualidade das sessões de treino durante a prática orientada pelo professor.
+2,Como evitar lesões durante o treino de artes marciais?,BM25,1,7151,10.292088347315458,"Fora do treino de capoeira, evitar o confronto costuma ser a decisão mais segura."
+2,Como evitar lesões durante o treino de artes marciais?,BM25,2,7555,10.292088347315458,"Fora do treino de sumô, evitar o confronto costuma ser a decisão mais segura."
+2,Como evitar lesões durante o treino de artes marciais?,BM25,3,7605,10.292088347315458,"Fora do treino de taekwondo, evitar o confronto costuma ser a decisão mais segura."
+2,Como evitar lesões durante o treino de artes marciais?,BM25,4,7635,10.292088347315458,"Fora do treino de savate, evitar o confronto costuma ser a decisão mais segura."
+2,Como evitar lesões durante o treino de artes marciais?,BM25,5,8116,10.292088347315458,"Fora do treino de judô, evitar o confronto costuma ser a decisão mais segura."
+2,Como evitar lesões durante o treino de artes marciais?,BM25,6,8409,10.292088347315458,"Fora do treino de kickboxing, evitar o confronto costuma ser a decisão mais segura."
+2,Como evitar lesões durante o treino de artes marciais?,BM25,7,8726,10.292088347315458,"Fora do treino de sambo, evitar o confronto costuma ser a decisão mais segura."
+2,Como evitar lesões durante o treino de artes marciais?,BM25,8,8882,10.292088347315458,"Fora do treino de sanda, evitar o confronto costuma ser a decisão mais segura."
+2,Como evitar lesões durante o treino de artes marciais?,BM25,9,8984,10.292088347315458,"Fora do treino de esgrima, evitar o confronto costuma ser a decisão mais segura."
+2,Como evitar lesões durante o treino de artes marciais?,BM25,10,9030,10.292088347315458,"Fora do treino de karatê, evitar o confronto costuma ser a decisão mais segura."
+3,Qual a importância da respiração no combate?,BM25,1,5312,14.138987030530838,A competidora valoriza a respiração em situações de combate sem esquecer a importância da recuperação.
+3,Qual a importância da respiração no combate?,BM25,2,3461,10.977051491053572,O lutador estuda a respiração com constância sem esquecer a importância da recuperação.
+3,Qual a importância da respiração no combate?,BM25,3,3541,10.977051491053572,O treinador transforma a respiração em competições sem esquecer a importância da recuperação.
+3,Qual a importância da respiração no combate?,BM25,4,3647,10.977051491053572,O treinador combina a respiração com disciplina sem esquecer a importância da recuperação.
+3,Qual a importância da respiração no combate?,BM25,5,4874,10.712666519796086,A aluna explora a respiração com consciência corporal sem esquecer a importância da recuperação.
+3,Qual a importância da respiração no combate?,BM25,6,5356,10.712666519796086,A atleta aprimora a respiração em diferentes distâncias sem esquecer a importância da recuperação.
+3,Qual a importância da respiração no combate?,BM25,7,3168,10.446300964039457,A aluna aprimora a respiração sem perder a calma sem esquecer a importância da recuperação.
+3,Qual a importância da respiração no combate?,BM25,8,4137,10.408108276309786,A iniciante repete a respiração sob orientação do treinador sem esquecer a importância da recuperação.
+3,Qual a importância da respiração no combate?,BM25,9,4434,10.408108276309786,A competidora respeita a respiração com foco na segurança sem esquecer a importância da recuperação.
+3,Qual a importância da respiração no combate?,BM25,10,4807,10.207800291560387,A atleta analisa a técnica em situações de combate sem esquecer a importância da recuperação.
+4,Como desenvolver defesa e esquiva no boxe?,BM25,1,8639,14.736320900124756,A defesa em boxe inclui a esquiva com proteção do queixo.
+4,Como desenvolver defesa e esquiva no boxe?,BM25,2,7850,10.333185302991115,A defesa em capoeira inclui a esquiva acompanhada de rolê.
+4,Como desenvolver defesa e esquiva no boxe?,BM25,3,1461,10.177595759960996,"No aprendizado de boxe, desenvolver defesa fortalece a confiança construída ao longo do treino durante os treinos regulares."
+4,Como desenvolver defesa e esquiva no boxe?,BM25,4,2941,9.680219942949421,"No boxe, desenvolver velocidade é essencial para desenvolver uma boa base técnica na rotina de praticantes experientes."
+4,Como desenvolver defesa e esquiva no boxe?,BM25,5,1297,9.533883154907622,"No boxe, desenvolver ataque favorece uma aprendizagem gradual e duradoura nas aulas para iniciantes."
+4,Como desenvolver defesa e esquiva no boxe?,BM25,6,1670,8.997063394609668,Praticar flexibilidade no boxe é essencial para desenvolver uma boa base técnica na preparação para competições.
+4,Como desenvolver defesa e esquiva no boxe?,BM25,7,2401,8.997063394609668,"No boxe, desenvolver coordenação torna a prática mais segura e organizada em exercícios realizados em dupla."
+4,Como desenvolver defesa e esquiva no boxe?,BM25,8,1602,8.316791272641945,O treinamento de boxe mostra que desenvolver tempo de reação torna a prática mais segura e organizada em treinos voltados à defesa pessoal.
+4,Como desenvolver defesa e esquiva no boxe?,BM25,9,2511,8.278234442088797,Quem treina boxe percebe que desenvolver concentração melhora a percepção do próprio corpo em treinos voltados à defesa pessoal.
+4,Como desenvolver defesa e esquiva no boxe?,BM25,10,1329,8.086426375462203,"No aprendizado de boxe, desenvolver tempo de reação permite executar movimentos com maior controle em trabalhos de técnica e movimentação."
+5,Como melhorar as quedas e projeções no judô?,BM25,1,7806,11.475748950757783,Quem busca a combinação de quedas e finalizações precisa considerar as próprias habilidades e as respostas do outro.
+5,Como melhorar as quedas e projeções no judô?,BM25,2,9658,10.78172647865943,O aprendizado de judô pode incluir a prática de quedas seguras.
+5,Como melhorar as quedas e projeções no judô?,BM25,3,8328,10.201021002413164,Diferenças regionais enriquecem as maneiras de praticar judô.
+5,Como melhorar as quedas e projeções no judô?,BM25,4,1610,10.032967289004915,Praticar coordenação no judô pode melhorar a qualidade das sessões de treino nas etapas de aquecimento e preparação.
+5,Como melhorar as quedas e projeções no judô?,BM25,5,9552,9.624932740380256,"No treino de projeções e controles, aprender com o parceiro inclui respeitar sinais de desconforto."
+5,Como melhorar as quedas e projeções no judô?,BM25,6,8624,9.139175129476385,O treino de judô pode ajudar a avaliar o ambiente e as rotas de fuga.
+5,Como melhorar as quedas e projeções no judô?,BM25,7,2373,9.106728148250214,"No aprendizado de judô, desenvolver técnica pode melhorar a qualidade das sessões de treino em atividades de condicionamento."
+5,Como melhorar as quedas e projeções no judô?,BM25,8,7977,9.097826065636268,"No treino de projeções e controles, a atenção aos detalhes vale mais do que repetir sem propósito."
+5,Como melhorar as quedas e projeções no judô?,BM25,9,8692,9.053754183680102,Reconhecer um erro durante as variantes esportiva e de combate abre caminho para melhorar.
+5,Como melhorar as quedas e projeções no judô?,BM25,10,8351,8.9064697138189,A origem de judô não explica sozinha todas as suas formas atuais.
+6,Como trabalhar flexibilidade para chutes altos?,BM25,1,2191,8.727692706379518,"Para praticantes de capoeira, trabalhar flexibilidade ajuda o praticante a compreender melhor os fundamentos na preparação para competições."
+6,Como trabalhar flexibilidade para chutes altos?,BM25,2,763,8.470853709959275,"Para praticantes de wing chun, trabalhar flexibilidade permite executar movimentos com maior controle durante os treinos regulares."
+6,Como trabalhar flexibilidade para chutes altos?,BM25,3,859,8.24508388552957,"Para praticantes de shotokan, trabalhar flexibilidade favorece decisões mais conscientes durante a prática em exercícios realizados em dupla."
+6,Como trabalhar flexibilidade para chutes altos?,BM25,4,883,8.24508388552957,"Para praticantes de sanda, trabalhar flexibilidade melhora a percepção do próprio corpo em treinos voltados à defesa pessoal."
+6,Como trabalhar flexibilidade para chutes altos?,BM25,5,1024,8.24508388552957,"Dentro do taekwondo, trabalhar flexibilidade reduz erros causados por pressa ou falta de atenção na preparação para competições."
+6,Como trabalhar flexibilidade para chutes altos?,BM25,6,1579,8.24508388552957,"Para praticantes de goju-ryu, trabalhar flexibilidade permite executar movimentos com maior controle em exercícios realizados em dupla."
+6,Como trabalhar flexibilidade para chutes altos?,BM25,7,259,8.03103631478176,"Para praticantes de karatê, trabalhar flexibilidade reduz erros causados por pressa ou falta de atenção durante os treinos regulares."
+6,Como trabalhar flexibilidade para chutes altos?,BM25,8,1735,7.634636376901984,"Para praticantes de capoeira, trabalhar flexibilidade estimula a evolução sem abandonar os princípios da modalidade nas etapas de aquecimento e preparação."
+6,Como trabalhar flexibilidade para chutes altos?,BM25,9,2836,7.578978720442052,"Dentro do shotokan, trabalhar flexibilidade favorece uma aprendizagem gradual e duradoura em sessões de aperfeiçoamento técnico."
+6,Como trabalhar flexibilidade para chutes altos?,BM25,10,184,7.1749805512707665,"Dentro do taekwondo, trabalhar flexibilidade favorece decisões mais conscientes durante a prática durante a prática orientada pelo professor."
+7,Como controlar a ansiedade antes de uma luta?,BM25,1,8379,12.531456480575605,"Ao enfrentar controlar a distância antes de entrar, uma atitude paciente pode superar uma reação impulsiva."
+7,Como controlar a ansiedade antes de uma luta?,BM25,2,9827,11.227905855625853,"Em luta olímpica, controlar a força favorece aprendizado sem ferimentos evitáveis."
+7,Como controlar a ansiedade antes de uma luta?,BM25,3,8474,11.018454310923651,Respiração organizada ajuda diante do desafio de controlar a distância antes de entrar.
+7,Como controlar a ansiedade antes de uma luta?,BM25,4,8524,10.396895647671013,O desafio de controlar a distância antes de entrar exige um plano que aceite mudanças.
+7,Como controlar a ansiedade antes de uma luta?,BM25,5,7150,9.134859988937555,"A prática defensiva de luta olímpica começa antes do contato, com leitura de sinais."
+7,Como controlar a ansiedade antes de uma luta?,BM25,6,8215,8.853642360452989,Verificar a kurtka e os calçados de luta antes do treino evita interrupções desnecessárias.
+7,Como controlar a ansiedade antes de uma luta?,BM25,7,8120,8.333073976494413,Verificar o uniforme de luta e o calçado específico antes do treino evita interrupções desnecessárias.
+7,Como controlar a ansiedade antes de uma luta?,BM25,8,4521,7.878206188140036,A atleta combina a mobilidade antes de aumentar a intensidade e usa a disciplina como parte do progresso.
+7,Como controlar a ansiedade antes de uma luta?,BM25,9,5674,7.878206188140036,A atleta repete a defesa antes de aumentar a intensidade e usa a disciplina como parte do progresso.
+7,Como controlar a ansiedade antes de uma luta?,BM25,10,6512,7.878206188140036,A guerreira valoriza a movimentação antes de aumentar a intensidade e usa a disciplina como parte do progresso.
+8,Como fortalecer a disciplina com treinos regulares?,BM25,1,8693,15.05260665638583,Praticar boxe com atenção pode fortalecer a disciplina nos treinos.
+8,Como fortalecer a disciplina com treinos regulares?,BM25,2,9341,11.747318480598816,Praticar aikidô com atenção pode fortalecer a não agressão como ideal de prática.
+8,Como fortalecer a disciplina com treinos regulares?,BM25,3,4834,10.275327290584496,A artista marcial estuda a disciplina nos treinos de sparring e usa a disciplina como parte do progresso.
+8,Como fortalecer a disciplina com treinos regulares?,BM25,4,77,9.964498621975885,"Em sumô, aperfeiçoar disciplina melhora a percepção do próprio corpo durante os treinos regulares."
+8,Como fortalecer a disciplina com treinos regulares?,BM25,5,2654,9.692531285848482,Praticar disciplina no shotokan favorece uma aprendizagem gradual e duradoura durante os treinos regulares.
+8,Como fortalecer a disciplina com treinos regulares?,BM25,6,3001,9.675838798396732,"No kyokushin, desenvolver disciplina ajuda a tornar o treinamento mais eficiente durante os treinos regulares."
+8,Como fortalecer a disciplina com treinos regulares?,BM25,7,4634,9.649767881010971,A guerreira observa a precisão com disciplina e usa a disciplina como parte do progresso.
+8,Como fortalecer a disciplina com treinos regulares?,BM25,8,4844,9.649767881010971,A lutadora equilibra a coordenação com disciplina e usa a disciplina como parte do progresso.
+8,Como fortalecer a disciplina com treinos regulares?,BM25,9,5327,9.649767881010971,A atleta repete a postura com disciplina e usa a disciplina como parte do progresso.
+8,Como fortalecer a disciplina com treinos regulares?,BM25,10,1796,9.627488248925687,"Uma boa rotina de bajiquan valoriza disciplina, pois isso permite executar movimentos com maior controle durante os treinos regulares."
+9,Como manter a distância certa do adversário?,BM25,1,4723,10.326387810060776,O guerreiro refina a leitura do adversário com constância e usa a disciplina como parte do progresso.
+9,Como manter a distância certa do adversário?,BM25,2,3674,10.068966632090628,O guerreiro desenvolve a leitura do adversário em cada sessão e usa a disciplina como parte do progresso.
+9,Como manter a distância certa do adversário?,BM25,3,4203,10.068966632090628,O aluno equilibra a leitura do adversário em diferentes distâncias e usa a disciplina como parte do progresso.
+9,Como manter a distância certa do adversário?,BM25,4,6380,10.068966632090628,O guerreiro valoriza a leitura do adversário em diferentes distâncias e usa a disciplina como parte do progresso.
+9,Como manter a distância certa do adversário?,BM25,5,6598,10.036489870045553,A iniciante desenvolve a leitura do adversário ao longo do tempo para manter a técnica mesmo sob cansaço.
+9,Como manter a distância certa do adversário?,BM25,6,7621,10.034749092368006,Respiração organizada ajuda diante do desafio de manter a base contra um adversário mais pesado.
+9,Como manter a distância certa do adversário?,BM25,7,6117,10.019672595719937,A artista marcial pratica a leitura do adversário ao longo do tempo e usa a disciplina como parte do progresso.
+9,Como manter a distância certa do adversário?,BM25,8,6469,9.92349708390854,A aluna observa a leitura do adversário em competições para manter a técnica mesmo sob cansaço.
+9,Como manter a distância certa do adversário?,BM25,9,6243,9.887116413633006,A aluna estuda a leitura do adversário em situações de combate e usa a disciplina como parte do progresso.
+9,Como manter a distância certa do adversário?,BM25,10,3979,9.654602128244933,O treinador repete a leitura do adversário antes de aumentar a intensidade e usa a disciplina como parte do progresso.
+10,Como preparar o corpo antes de treinar?,BM25,1,7653,8.279062561913001,Preparar-se para o combate de solo exige evolução conjunta de intensidade e técnica.
+10,Como preparar o corpo antes de treinar?,BM25,2,3549,8.092579305536283,O treinador transforma a defesa antes de aumentar a intensidade e usa a disciplina como parte do progresso.
+10,Como preparar o corpo antes de treinar?,BM25,3,4080,8.092579305536283,O competidor aperfeiçoa a concentração antes de aumentar a intensidade e usa a disciplina como parte do progresso.
+10,Como preparar o corpo antes de treinar?,BM25,4,4187,8.092579305536283,A treinadora observa o condicionamento antes de aumentar a intensidade e usa a disciplina como parte do progresso.
+10,Como preparar o corpo antes de treinar?,BM25,5,5069,8.092579305536283,A lutadora treina o foco antes de aumentar a intensidade e usa a disciplina como parte do progresso.
+10,Como preparar o corpo antes de treinar?,BM25,6,5254,8.092579305536283,O competidor executa a paciência antes de aumentar a intensidade e usa a disciplina como parte do progresso.
+10,Como preparar o corpo antes de treinar?,BM25,7,6248,8.092579305536283,O competidor refina a técnica antes de aumentar a intensidade e usa a disciplina como parte do progresso.
+10,Como preparar o corpo antes de treinar?,BM25,8,9695,7.997844933428436,Preparar-se para o combate no tatame exige evolução conjunta de intensidade e técnica.
+10,Como preparar o corpo antes de treinar?,BM25,9,4377,7.882490849738506,O aluno repete a consciência corporal antes de aumentar a intensidade e usa a disciplina como parte do progresso.
+10,Como preparar o corpo antes de treinar?,BM25,10,7496,7.7661567577278205,Preparar-se para o kumite com regras definidas exige evolução conjunta de intensidade e técnica.

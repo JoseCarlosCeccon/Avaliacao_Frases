@@ -1,0 +1,49 @@
+{
+  "registros": 10000,
+  "input_sha256": "9c5abcd17b53d103044b9a94f3556854e20bc6b4fb69f3f988db5e8935e73fed",
+  "modelos": {
+    "minilm": {
+      "cache_reutilizado": false,
+      "preparacao_segundos": 153.76250409998465,
+      "dimensao": 384,
+      "device": "cpu",
+      "torch": "2.14.1+cpu"
+    },
+    "bge": {
+      "cache_reutilizado": false,
+      "preparacao_segundos": 5246.020100300026,
+      "dimensao": 1024,
+      "device": "cpu",
+      "torch": "2.14.1+cpu"
+    }
+  },
+  "queries": [
+    "Como melhorar o equilíbrio durante os chutes?",
+    "Como evitar lesões durante o treino de artes marciais?",
+    "Qual a importância da respiração no combate?",
+    "Como desenvolver defesa e esquiva no boxe?",
+    "Como melhorar as quedas e projeções no judô?",
+    "Como trabalhar flexibilidade para chutes altos?",
+    "Como controlar a ansiedade antes de uma luta?",
+    "Como fortalecer a disciplina com treinos regulares?",
+    "Como manter a distância certa do adversário?",
+    "Como preparar o corpo antes de treinar?"
+  ],
+  "weights": [
+    0,
+    0.25,
+    0.5,
+    0.75,
+    1
+  ],
+  "ks": [
+    10,
+    30,
+    60,
+    100
+  ],
+  "top": 10,
+  "numpy": "2.5.3",
+  "nota_tempos": "Tempo por método: cálculo dos scores, sem ordenação/exportação. Fusão exclui cálculo lexical e embedding.",
+  "nota_avaliacao": "Métricas usam apenas julgamentos fornecidos; não julgados contam como zero. Recall é relativo ao conjunto julgado."
+}
